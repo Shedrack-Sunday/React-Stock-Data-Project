@@ -51,11 +51,10 @@
 <details>
   <summary>State Management </summary>
   <ul>
-    <li><a href="https://redux-toolkit.org/">Express.js</a></li>
+    <li><a href="https://redux-toolkit.org/">Redux-toolkit</a></li>
   </ul>
 </details>
 
-<details>
 
 
 ### Key Features <a name="key-features"></a>
