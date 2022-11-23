@@ -70,7 +70,8 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://react-stock-data-project.vercel.app/)
+- [Loom video link](https://www.loom.com/share/3a38aff2eb3245b1b9b0801d9fc2923c)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
